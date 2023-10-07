@@ -749,6 +749,10 @@ video {
   background-image: url('/images/image-product-mobile.jpg');
 }
 
+.bg-\[url\(\'\.\/images\/image-product-mobile\.jpg\'\)\] {
+  background-image: url('./images/image-product-mobile.jpg');
+}
+
 .bg-contain {
   background-size: contain;
 }
@@ -944,6 +948,10 @@ video {
 
   .md\:bg-\[url\(\'\/images\/image-product-desktop\.jpg\'\)\] {
     background-image: url('/images/image-product-desktop.jpg');
+  }
+
+  .md\:bg-\[url\(\'\.\/images\/image-product-desktop\.jpg\'\)\] {
+    background-image: url('./images/image-product-desktop.jpg');
   }
 }
 
