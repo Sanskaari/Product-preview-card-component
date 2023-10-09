@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://sanskaari.github.io/qr-code-component-main/
+- Live Site URL: https://sanskaari.github.io/Product-preview-card-component/
 
 ## My process
 
